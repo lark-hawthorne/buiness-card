@@ -1,0 +1,31 @@
+body {
+    margin: 20px;
+    font-family: Muli, sans-serif;
+}
+
+h3{
+    font-family: "Space Mono", monospace;
+    font-weight: 900;
+}
+
+.avatar {
+    width: 125px;
+    border-radius: 30px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    
+    background-image: linear-gradient(to right, #31572c , #1e1e24, #1e1e24);
+    border-radius: 10px;
+    
+    display: flex;
+    justify-content: space-around;
+    
+    text-align: center;
+    color: #e9f5db;
+    text-shadow: 1px 1px #1e1e24, 2px 2px 5px #fff8f0;
+    
+}
